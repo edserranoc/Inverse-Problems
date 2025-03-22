@@ -16,7 +16,7 @@ Reviewed PyTorch implementations of Stein variational methods, analyzed algorith
 <img src="./images/mixture_6_gaussians.svg" width="300"/> 
 </div>
 
-**Banana-shaped distributions:**
+**Banana-shaped distribution:**
 <div align="center">
 <img src="./images/Unnormalized_Distribution.svg" width="300"/> 
 </div>
